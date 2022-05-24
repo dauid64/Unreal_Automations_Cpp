@@ -6,4 +6,4 @@ Organize World Outliner = Organiza os Actors da cena em pastas com o nome de sua
 
 Delete Null SM actors = deleta actors que não tem o static mesh component selecionado
 
-Set Texture Parameter = 
+Set Texture Parameter = Desliga o sRGB do asset com pos fixo selecionado e adiciona a compression settings para a selecionada
